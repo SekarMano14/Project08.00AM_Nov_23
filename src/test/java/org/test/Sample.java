@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+package org.test;
+
+import org.testng.annotations.Test;
+
+public class Sample {
+	@Test
+	private void test() {
+		System.out.println("Test1");
+		System.out.println("Test6");
+		System.out.println("Test7");
+		System.out.println("Test8");
+		System.out.println("Test9");
+	}
+
+}
+=======
 package org.test;
 
 import org.testng.annotations.Test;
@@ -16,3 +33,4 @@ public class Sample {
 	}
 
 }
+>>>>>>> 2341532c6a9c13b5457511c31646bb26b5f56def
